@@ -1,0 +1,51 @@
+				@font-face {
+					font-family: 'futura-pt-bold';
+					src: url('181207121017Futura-PT-Bold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.futura-pt-bold{font-family: 'futura-pt-bold' !important;}
+
+						@font-face {
+					font-family: 'gotham';
+					src: url('1567Gotham.woff2') format('woff2'),
+						url('1567Gotham.woff') format('woff');
+					font-weight: 700; font-style: normal; font-display: auto;
+				}
+
+				.gotham{font-family: 'gotham' !important;}
+
+						@font-face {
+					font-family: 'gotham';
+					src: url('696Gotham.woff2') format('woff2'),
+						url('696Gotham.woff') format('woff');
+					font-weight: 400; font-style: normal; font-display: auto;
+				}
+
+				.gotham{font-family: 'gotham' !important;}
+
+						@font-face {
+					font-family: 'gotham';
+					src: url('3783Gotham.woff2') format('woff2'),
+						url('3783Gotham.woff') format('woff');
+					font-weight: 300; font-style: normal; font-display: auto;
+				}
+
+				.gotham{font-family: 'gotham' !important;}
+
+						@font-face {
+					font-family: 'gotham';
+					src: url('7125Gotham.woff2') format('woff2'),
+						url('7125Gotham.woff') format('woff');
+					font-weight: 900; font-style: normal; font-display: auto;
+				}
+
+				.gotham{font-family: 'gotham' !important;}
+
+						h1, h2{
+					font-family: 'futura-pt-bold' !important;
+				}
+						h1, h2{
+					font-family: 'futura-pt-bold' !important;
+				}
+		
